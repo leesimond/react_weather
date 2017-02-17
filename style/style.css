@@ -1,0 +1,45 @@
+.container {
+  margin: 1em auto;
+}
+
+input::-webkit-calendar-picker-indicator {
+  display: none;
+}
+
+li {
+  list-style: none;
+}
+
+.alert {
+  margin: 1em auto;
+}
+
+h1 {
+  margin: 5px auto !important;
+}
+
+.chart {
+  width: 50%;
+  float: left;
+}
+
+.notation {
+  margin-left: .5em;
+}
+
+.forecast-center {
+  text-align: center;
+}
+
+.forecast-right {
+  text-align: right;
+  vertical-align: middle !important;
+}
+
+.forecast-high {
+  color: indianred;
+}
+
+.forecast-low {
+  color: dodgerblue;
+}
